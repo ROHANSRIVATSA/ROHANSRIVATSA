@@ -188,6 +188,6 @@ Targeting companies focused on breakthrough AI solutions, scalable systems, and 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ROHANSRIVATSA&color=00D9FF&style=flat-square&label=Profile+Views)
 
-*Built with ❤️ | Last updated: November 2025*
+*Last updated: November 2025*
 
 </div>
