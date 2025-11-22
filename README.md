@@ -58,6 +58,22 @@ I'm an aspiring technology entrepreneur and AI/ML engineer building **intelligen
 
 ## 💡 Featured Projects
 
+
+
+
+
+### 💰 Smart Expense Tracker
+**AI for HCI | User Research & Prototyping**
+
+Intelligent expense categorization system with AI-powered receipt recognition. Built with wizard-of-oz prototyping and validated through user research (11+ participants). Demonstrates human-AI interaction design for personal finance management.
+
+**Stack:** Python, AI/ML, OCR, User Research Methodologies, Figma prototyping
+**Highlights:** User-centered design, behavioral insights, AI tone preferences, trust patterns
+
+[View Project →](https://github.com/ROHANSRIVATSA/SmartExpenseTracker)
+
+---
+
 ### 🎙️ Speech-to-Speech Translation System
 **Northeastern University & Working Labs | AI R&D Project**
 
@@ -66,91 +82,53 @@ Building a comprehensive real-time speech translation system for multilingual ba
 **Stack:** Flask-SocketIO, Google Cloud APIs, React, MySQL, real-time audio processing
 **Impact:** Enables seamless multilingual customer interactions
 
-[View Project →](https://github.com/ROHANSRIVATSA)
-
 ---
 
-### 🏗️ Enterprise Monitoring Solution
-**Large-Scale System Monitoring | Production Infrastructure**
-
-Contributed to maintenance and enhancement of a large-scale enterprise monitoring platform for confidential clients. Diagnosed and resolved 30+ CI pipeline issues, improving deployment success rate by ~20%. Collaborated with DevOps to coordinate release delivery and ensured release traceability.
-
-**Stack:** C#, ASP.NET, MySQL, TeamCity, JFrog Artifactory, Azure
-**Achievements:** 20% deployment improvement, 30+ issues resolved, enterprise-grade system reliability
-
-[View Project →](https://github.com/ROHANSRIVATSA)
-
----
-
-### 💻 System Validation Platform
-**Full-Stack Web Development | RESTful Architecture**
-
-Designed and implemented scalable frontend-backend integrations for a system validation platform. Delivered 8+ new feature modules and resolved 20+ defects, reducing integration failure rates by 30% during regression testing.
-
-**Stack:** Django, Vue.js, REST APIs, PostgreSQL
-**Highlights:** Feature-rich platform, cross-system communication, QA collaboration
-
-[View Project →](https://github.com/ROHANSRIVATSA)
-
----
-
-### 🧠 Breast Cancer Classification with MLOps
+### 🧠 Breast Cancer Prediction with MLOps
 **ML Engineering Pipeline | Production-Ready Model**
 
-Implemented end-to-end ML pipeline with hyperparameter tuning, model versioning, and deployment automation. Demonstrates MLOps best practices and interpretable machine learning approaches.
+Implemented end-to-end ML pipeline with hyperparameter tuning, model versioning, and deployment automation. Demonstrates MLOps best practices and interpretable machine learning approaches with 98.2% accuracy.
 
-**Stack:** TensorFlow, MLflow, Docker, Google Cloud Platform, scikit-learn
-**Achievements:** Model tracking, containerization, and GCP deployment
+**Stack:** TensorFlow, scikit-learn, MLflow, Docker, Google Cloud Platform
+**Achievements:** Model tracking, containerization, GCP deployment, Flask API
 
 [View Project →](https://github.com/ROHANSRIVATSA/breastCancerPrediction)
 
 ---
 
-### 💰 Smart Expense Tracker
-**AI for HCI | User Research & Prototyping**
+### 💳 Merchant Payment Gateway API
+**Full-Stack Backend | Payment Processing System**
 
-Intelligent expense categorization system built with wizard-of-oz prototyping and validated through user research (11+ participants). Demonstrates human-computer interaction principles and user-centered design.
+Built a comprehensive payment processing Web API with secure endpoints, card masking, encryption, and bank simulator for distributed system testing. Demonstrates enterprise-grade API design and security best practices.
 
-**Stack:** Python, AI/ML, User Research Methodologies, Figma prototyping
-**Highlights:** User-centered design, behavioral insights, natural language processing
+**Stack:** C#, ASP.NET Core, Entity Framework, Swagger, RESTful APIs
+**Highlights:** Secure payment handling, comprehensive documentation, system testing capabilities
 
-[View Project →](https://github.com/ROHANSRIVATSA)
-
----
-
-### 🎵 RemixSphere
-**Music Discovery Platform | Entrepreneurial Venture**
-
-Building a social music discovery platform with ML-powered recommendations and collaborative features. A startup project showcasing full-stack development and ML integration.
-
-**Stack:** React, Node.js, ML recommendation engines, MongoDB
-**Vision:** Personalized music discovery meets community
-
-[View Project →](https://github.com/ROHANSRIVATSA)
+[View Project →](https://github.com/ROHANSRIVATSA/MerchantPayment)
 
 ---
 
-### 👁️ Computer Vision Projects
-**Face Detection • Edge Detection • Image Processing**
+### 📊 Enterprise Log Analysis Tool
+**Full-Stack Microservices | System Monitoring**
 
-Collection of advanced CV work including real-time face detection with creative visual effects, Sobel edge detection, and contour analysis.
+Built full-stack microservices platform for processing system logs with anomaly detection and real-time performance reporting. Includes automated CI/CD pipelines and scalable architecture.
 
-**Stack:** OpenCV, Python, NumPy
-**Techniques:** Gaussian blur, Sobel operators, contour detection, facial recognition
+**Stack:** Java, Spring Boot, Vue.js, MySQL, microservices
+**Impact:** Real-time log processing, automated anomaly detection, performance insights
 
-[View Projects →](https://github.com/ROHANSRIVATSA)
+[View Project →](https://github.com/ROHANSRIVATSA/LogAnalysis)
 
 ---
 
-### 🌐 Responsive Web Applications
-**Frontend Optimization | Client-Centric Development**
+### ☁️ Terraform AWS EC2 Auto-Scaling Infrastructure
+**Cloud Infrastructure | Infrastructure as Code**
 
-Developed responsive, mobile-first web applications including a React-based cafe website with dynamic content rendering. Focused on UX optimization, performance enhancement, and delivering projects on schedule.
+Designed and implemented scalable AWS infrastructure using Terraform with EC2 auto-scaling, load balancing, and infrastructure automation. Demonstrates cloud infrastructure design and DevOps best practices.
 
-**Stack:** React, Vue.js, HTML/CSS, JavaScript, responsive design
-**Experience:** Client collaboration, UX-focused development, performance optimization
+**Stack:** Terraform, AWS (EC2, Auto Scaling, Load Balancing), Infrastructure as Code
+**Highlights:** Automated scaling, infrastructure reproducibility, DevOps automation
 
-[View Projects →](https://github.com/ROHANSRIVATSA)
+[View Project →](https://github.com/ROHANSRIVATSA/Terraform-AWS-EC2-Auto-Scaling-Infrastructure)
 
 ---
 
